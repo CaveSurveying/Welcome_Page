@@ -9,8 +9,8 @@ Objectives include: making pretty visualizations, providing maps to find the way
 
 At CUCC we use https://survex.com/ for the main set of data, with plan drawings done in tunnelx.  
 
-### Github-based experiments
+### GitHub-based experiments
 
-Caving clubs and expeditions need an effective online forum to coordinate their volunteer work -- be it organizing the expeditions or debugging and drawing up the survey data.  Email lists are no longer adequate, and one system that allows semi-structured freeform work is github, which has the advantage that many people already hold accounts for it.
+Caving clubs and expeditions need an effective online forum to coordinate their volunteer work -- be it organizing the expeditions or debugging and drawing up the survey data.  Email lists are no longer adequate, and one system that allows semi-structured freeform work is GitHub, which has the advantage that many people already hold accounts for it.
 
-
+Imperial College Caving Club (ICCC) are currently managing their survey data in this GitHub repo: https://github.com/jarvist/migovecsurveydata
